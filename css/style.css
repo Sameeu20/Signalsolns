@@ -450,6 +450,12 @@ header.sticky{
 	margin-bottom: 3px;
 	color: var(--bg-color);
 }
+.contact-icons h4{
+	font-size: 20px;
+	font-weight: 450;
+	margin-bottom: 3px;
+	color: white;
+}
 .center p{
 	font-size: var(--p-font);
 	color: var(--bg-color);
